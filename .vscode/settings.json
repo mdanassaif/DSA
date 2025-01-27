@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "DAY2.C": "cpp",
+        "Queue.C": "cpp"
+    }
+}
