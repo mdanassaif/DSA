@@ -1,1 +1,1 @@
-## This code are wriitten on TURBO C
+## This code is written in Turbo C![Turbo C Logo](./labimage.jpg) 
