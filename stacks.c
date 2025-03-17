@@ -1,4 +1,5 @@
-clrscr();
+#include <stdio.h>
+
 void push();
 void pop();
 void display();
@@ -7,9 +8,7 @@ int top = -1;
 int capacity=10;
 int stack[10];
 
-
-
-void main(){
+int main(){
 
 int repeat =1, choice;
 
@@ -39,6 +38,8 @@ default:
 printf("Do you want to continue \n");
 scanf("%d", &repeat);
 }
+
+return 0;
 }
 
 void push(){

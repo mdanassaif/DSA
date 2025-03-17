@@ -2,6 +2,8 @@
     "files.associations": {
         "*.ejs": "html",
         "DAY2.C": "cpp",
-        "Queue.C": "cpp"
-    }
+        "Queue.C": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
