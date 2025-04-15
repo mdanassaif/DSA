@@ -1,0 +1,31 @@
+FlowChar & PsedoCode
+
+Area of Square
+~~~~~~~~~~~~~~~~
+
+
+FLOW CHART
+
+   start (inside of oval shape)
+     |
+     ~
+   input a (inside of a parralegram)
+     |
+     ~
+   area = a * a; ( inside of a rectangle )
+     |
+     ~
+   print area (inside of a parralegram)
+     |
+     ~
+   exit (inside of oval shape)
+ 
+
+PSEUDO CODE
+
+1. input a
+2. area = a * a 
+3. Print area
+4. exist
+
+we use diamond shape for conditional statement
